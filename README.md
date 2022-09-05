@@ -4,4 +4,5 @@
 
 ![sonwonjun103's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonwonjun103&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/sonwonjun103=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonwonjun103)](https://github.com/sonwonjun103/github-readme-stats)
+
