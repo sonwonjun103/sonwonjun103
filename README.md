@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Won Jun Son 👋</h1>
+<h1 align="center">Hi, I'm Wonjun Son 👋</h1>
 
 <p align="center">
   Deep learning researcher focused on <b>medical image analysis</b> —
@@ -8,6 +8,7 @@
 
 <p align="center">
   <a href="mailto:knu.limitless@gmail.com"><img src="https://img.shields.io/badge/Email-knu.limitless%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Lab-KNU%20LIMITLESS-informational?style=flat&logo=academia&logoColor=white">
   <img src="https://img.shields.io/badge/Location-Daegu,%20Korea-informational?style=flat&logo=googlemaps&logoColor=white">
 </p>
 
@@ -16,9 +17,20 @@
 ### 🔬 About me
 
 - 🧠 I work on **AI for medical imaging** — MRI reconstruction, brain/organ segmentation, and disease classification from MRI/fMRI.
+- 🏫 I am a graduate researcher in the **LIMITLESS Lab** at **Kyungpook National University (KNU)**.
+- 🔬 Our lab focuses on **medical image analysis, deep learning, and intelligent medical imaging systems**.
 - 🔭 Currently building **zero-shot & self-supervised MRI reconstruction** pipelines on the fastMRI dataset.
 - 🌱 Recently exploring **LLM agents (LangGraph)** for medical workflows.
 - 🎯 Interests: physics-guided deep learning, unrolled networks, diffusion models, vision transformers, and self-supervised learning.
+
+### 🧪 Lab
+
+I am affiliated with the **LIMITLESS Lab** at **Kyungpook National University (KNU)**, where we conduct research on deep learning-based medical image analysis, including MRI reconstruction, CT/MRI segmentation, neuroimaging analysis, and AI-assisted clinical workflows.
+
+- **Lab:** LIMITLESS Lab, Kyungpook National University
+- **Research areas:** Medical AI, MRI reconstruction, CT/MRI segmentation, neuroimaging, self-supervised learning
+- **Location:** Daegu, Republic of Korea
+- **Contact:** knu.limitless@gmail.com
 
 ### 🧰 Tech stack
 
@@ -35,14 +47,14 @@
 
 | Project | What it is |
 |---|---|
-| [**MRIreconstruction**](https://github.com/sonwonjun103/MRIreconstruction) | Zero-shot / self-supervised accelerated MRI reconstruction on fastMRI — supervised (U-Net, SwinUNETR), self-supervised **SSDU**, zero-shot **ZS-SSL**, diffusion prior, and classical CG-SENSE, with ESPIRiT sensitivity maps and SSIM/PSNR/NMSE/NMAE evaluation. |
+| [**MRIreconstruction**](https://github.com/sonwonjun103/MRIreconstruction) | Zero-shot / self-supervised accelerated MRI reconstruction on fastMRI — supervised U-Net/SwinUNETR, self-supervised **SSDU**, zero-shot **ZS-SSL**, diffusion prior, CG-SENSE, ESPIRiT sensitivity maps, and SSIM/PSNR/NMSE/NMAE evaluation. |
 | [**Hippocampus-Seg**](https://github.com/sonwonjun103/Hippocampus-Seg) | Deep-learning segmentation of the hippocampus from brain MRI. |
 | [**3D_ConvNeXt_for_fMRI**](https://github.com/sonwonjun103/3D_ConvNeXt_for_fMRI) | 3D ConvNeXt architecture applied to fMRI analysis. |
 | [**Autism_Spectrum_Disorder_Classification**](https://github.com/sonwonjun103/Autism_Spectrum_Disorder_Classification) | Classification of Autism Spectrum Disorder from neuroimaging data. |
 | [**HDD_Net**](https://github.com/sonwonjun103/HDD_Net) | Deep network for medical image analysis. |
-| [**Langgraph_LiverTumor**](https://github.com/sonwonjun103/Langgraph_LiverTumor) | LLM-agent (LangGraph) workflow for liver-tumor analysis. |
+| [**Langgraph_LiverTumor**](https://github.com/sonwonjun103/Langgraph_LiverTumor) | LLM-agent workflow using LangGraph for liver-tumor analysis. |
 
-> Also: algorithmic problem solving (Baekjoon / Programmers / coding tests) and ML study notebooks.
+> Also: algorithmic problem solving, Baekjoon / Programmers / coding tests, and ML study notebooks.
 
 ### 📊 GitHub stats
 
@@ -53,7 +65,8 @@
 
 ### 📫 Reach me
 
-- 📧 knu.limitless@gmail.com
-- 🏫 Kyungpook National University — School of Electronics Engineering
+- 📧 s980605@naver.com or ss98060545@gmail.com
+- 🧪 LIMITLESS Lab, Kyungpook National University
+- 🏫 School of Electronics Engineering, Kyungpook National University
 
 <sub>Thanks for visiting! ⭐ Feel free to check out my medical-AI projects.</sub>
